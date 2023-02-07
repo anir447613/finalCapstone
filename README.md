@@ -1,4 +1,4 @@
-# Object Pretty Show
+# Js Object Pretty Display
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
