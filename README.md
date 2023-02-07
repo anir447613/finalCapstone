@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Object Pretty Show
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## What it Does
+Simply show a js Object in pretty manner on frontend
 
 ## Available Scripts
 
